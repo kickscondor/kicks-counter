@@ -56,8 +56,8 @@ count.start()
 You can also track progress with the 'progress' event.
 
 ```
-count.on('progress', (stats) => {
-  console.log(`Completed ${stats.at} of ${stats.total} tasks.`)
+count.on('progress', () => {
+  console.log(`Completed ${count.at} of ${count.total} tasks.`)
 })
 ```
 
