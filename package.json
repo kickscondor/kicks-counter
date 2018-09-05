@@ -4,9 +4,7 @@
   "description": "Simple counter for monitoring progress on async functions and promises.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "lint": "jslint ./index.js",
-    "prepublish": "npm run lint"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
