@@ -1,0 +1,29 @@
+{
+  "name": "kicks-counter",
+  "version": "0.9.0",
+  "description": "Simple counter for monitoring progress on async functions and promises.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "jslint ./index.js",
+    "prepublish": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kickscondor/kicks-counter.git"
+  },
+  "keywords": [
+    "async"
+  ],
+  "author": "kickscondor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kickscondor/kicks-counter/issues"
+  },
+  "homepage": "https://github.com/kickscondor/kicks-counter#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jslint": "^0.10.3"
+  }
+}
