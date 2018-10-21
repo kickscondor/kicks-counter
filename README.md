@@ -1,5 +1,8 @@
-Kicks' Counter
-==============
+[DEPRECATED]
+============
+
+**THIS MODULE HAS BEEN SUPERCEDED BY THE
+[KICKTOCK](https://github.com/kickscondor/kicktock) MODULE.**
 
 Track the progress of sets of callbacks or Promises.
 
