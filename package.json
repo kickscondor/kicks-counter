@@ -1,6 +1,6 @@
 {
   "name": "kicks-counter",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "Simple counter for monitoring progress on async functions and promises.",
   "main": "index.js",
   "scripts": {
